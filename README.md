@@ -1,3 +1,2 @@
 # check
-just checkig around
-First commit by myself
+just checkig aroun
